@@ -1,6 +1,6 @@
 ## Greetings! my name is Asser Mohammed👋
 - 🐱 Computer Science & Ai student
-- 📫 How to reach me: [Gmail(mohammedasser070@gmail.com)]
+- 📫 How to reach me: [Gmail](mohammedasser070@gmail.com) [WhatsApp](01040920123)
   
 ### What kind of things I develop 💻
 - 🌚 Front-end
