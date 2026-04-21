@@ -35,8 +35,8 @@ I am a Computer Science & AI Student at Minia National University. I bridge the 
 
 ### 📈 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Asser's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asaerxd6767&show_icons=true&theme=tokyonight" alt="Asser's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaerxd6767&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
