@@ -47,5 +47,5 @@ I am a Computer Science & AI Student at Minia National University. I bridge the 
 - 🏆 [Codeforces Profile](https://codeforces.com/profile/Zeke.5)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=asaerxd6767&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
