@@ -33,10 +33,19 @@ I am a Computer Science & AI Student at Minia National University. I bridge the 
 
 ---
 
-## 📈 My Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asaerxd6767&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaerxd6767&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asaerxd6767&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asaerxd6767&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asaerxd6767&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asaerxd6767&theme=tokyonight" />
 </p>
 
 ---
