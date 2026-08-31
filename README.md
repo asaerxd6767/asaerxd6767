@@ -17,7 +17,7 @@ I am a Computer Science & AI student at Minia National University with a passion
 
 ### 🚀 Featured Projects
 - **Nafi3:** Developed a platform that bridges the gap between donors and trusted NGOs/organizations to facilitate secure and efficient donations. (Won 3rd place in the Tech Mastery Hackathon).
-- **Medical AI RAG Pipeline:** Built a Retrieval-Augmented Generation system using Python to process colorectal cancer clinical guidelines utilizing PDF extraction, text embeddings, and vector databases. [Repo here](https://github.com/mostafaelwazzany/AI-Project-for-Hackathon.git)
+- **Medical AI RAG Pipeline:** Built a Retrieval-Augmented Generation system using Python to process colorectal cancer clinical guidelines utilizing PDF extraction, text embeddings, and vector databases. [Repo here](https://github.com/mostafaelwazzany/AI-Project-for-Hackathon/tree/Asser)
 - **Pharmacy Management System:** Co-developed a comprehensive system with a 9-member team, handling end-to-end system analysis, database design, and software implementation.
 - **Real-Time Hand Tracking:** Built a computer vision system utilizing Python and MediaPipe.
 
