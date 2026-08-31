@@ -7,26 +7,26 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science & AI student at Minia National University with a passion for building high-performance applications and solving complex algorithmic challenges[cite: 1]. I specialize in Mobile Development using Flutter and Dart, and I am currently a Tech Mastery Flutter Intern[cite: 1]. My background as a Codeforces Pupil allows me to approach software through the lens of optimization and data structures—I don't just build interfaces; I architect efficient, scalable solutions[cite: 1]. 
+I am a Computer Science & AI student at Minia National University with a passion for building high-performance applications and solving complex algorithmic challenges. I specialize in Mobile Development using Flutter and Dart, and I am currently a Tech Mastery Flutter Intern. My background as a Codeforces Pupil allows me to approach software through the lens of optimization and data structures—I don't just build interfaces; I architect efficient, scalable solutions. 
 
 - 🔭 **Current Focus:** Advanced Flutter Architecture, State Management, and Artificial Intelligence.
 - 🏆 **Competitive Programming:** Pupil rank on Codeforces. I love solving complex problems with C++.
-- 🌱 **Continuous Learning:** Recently earned the Cisco Learn-A-Thon 2026 badge, alongside certifications in Modern AI and Cybersecurity[cite: 1].
+- 🌱 **Continuous Learning:** Recently earned the Cisco Learn-A-Thon 2026 badge, alongside certifications in Modern AI and Cybersecurity.
 
 ---
 
 ### 🚀 Featured Projects
-- **نافع (Nafi3):** Developed a platform that bridges the gap between donors and trusted NGOs/organizations to facilitate secure and efficient donations[cite: 1]. (Won 3rd place in the Tech Mastery Hackathon).
-- **Medical AI RAG Pipeline:** Built a Retrieval-Augmented Generation system using Python to process colorectal cancer clinical guidelines utilizing PDF extraction, text embeddings, and vector databases.
+- **Nafi3:** Developed a platform that bridges the gap between donors and trusted NGOs/organizations to facilitate secure and efficient donations. (Won 3rd place in the Tech Mastery Hackathon).
+- **Medical AI RAG Pipeline:** Built a Retrieval-Augmented Generation system using Python to process colorectal cancer clinical guidelines utilizing PDF extraction, text embeddings, and vector databases. [Repo here](https://github.com/mostafaelwazzany/AI-Project-for-Hackathon.git)
 - **Pharmacy Management System:** Co-developed a comprehensive system with a 9-member team, handling end-to-end system analysis, database design, and software implementation.
 - **Real-Time Hand Tracking:** Built a computer vision system utilizing Python and MediaPipe.
 
 ---
 
 ### 👥 Leadership & Community
-I thrive in environments where technology meets leadership, acting as a bridge between technical complexity and community needs[cite: 1].
-* **Vice Training Head @ ICPC MNU Community:** Mentored 30+ students in competitive programming fundamentals and conducted technical sessions on problem-solving strategies for Codeforces Level 1[cite: 1]. Collaborated with the board to organize local programming contests[cite: 1].
-* **Batch Leader & Student Representative @ MNU:** Serving as the primary liaison between faculty administration and a batch of 400+ students[cite: 1]. Managed digital service petitions and streamlined communication for academic resources[cite: 1].
+I thrive in environments where technology meets leadership, acting as a bridge between technical complexity and community needs.
+* **Vice Training Head @ ICPC MNU Community:** Mentored 30+ students in competitive programming fundamentals and conducted technical sessions on problem-solving strategies for Codeforces Level 1. Collaborated with the board to organize local programming contests.
+* **Batch Leader & Student Representative @ MNU:** Serving as the primary liaison between faculty administration and a batch of 400+ students. Managed digital service petitions and streamlined communication for academic resources[cite: 1].
 
 ---
 
