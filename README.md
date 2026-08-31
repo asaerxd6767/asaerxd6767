@@ -12,7 +12,7 @@ I am a Computer Science & AI Student at Minia National University. I bridge the 
 - 🔭 Current Focus: Mastering Advanced Flutter Architecture & State Management.
 - 🏆 Competitive Programming: Pupil rank on Codeforces. I love solving complex problems with C++.
 - 🤖 AI/CV: Recently built a real-time Hand Tracking system using Python & MediaPipe.
-- 👥 Leadership: Serving as Batch Leader and Mentor at ICPC MNU, helping 50+ peers navigate their tech journey.
+- 👥 Leadership: Serving as Batch Leader and Vice Training Head at ICPC MNU, helping 50+ peers navigate their tech journey.
 
 ---
 
