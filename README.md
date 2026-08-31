@@ -26,7 +26,7 @@ I am a Computer Science & AI student at Minia National University with a passion
 ### 👥 Leadership & Community
 I thrive in environments where technology meets leadership, acting as a bridge between technical complexity and community needs.
 * **Vice Training Head @ ICPC MNU Community:** Mentored 30+ students in competitive programming fundamentals and conducted technical sessions on problem-solving strategies for Codeforces Level 1. Collaborated with the board to organize local programming contests.
-* **Batch Leader & Student Representative @ MNU:** Serving as the primary liaison between faculty administration and a batch of 400+ students. Managed digital service petitions and streamlined communication for academic resources[cite: 1].
+* **Batch Leader & Student Representative @ MNU:** Serving as the primary liaison between faculty administration and a batch of 400+ students. Managed digital service petitions and streamlined communication for academic resources.
 
 ---
 
