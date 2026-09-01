@@ -1,7 +1,7 @@
 # Hi there, I'm Asser! 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Tech+Mastery+Flutter+Intern;Competitive+Programmer+(Pupil);AI+&amp;+CV+Enthusiast;Batch+Leader+@+MNU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Tech+Mastery+Flutter+Intern;Competitive+Programmer+(Pupil);AI+CV+Enthusiast;Batch+Leader+@+MNU" alt="Typing SVG" />
 </p>
 
 ---
