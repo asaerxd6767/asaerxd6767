@@ -79,7 +79,7 @@ I thrive in environments where technology meets leadership, acting as a bridge b
 - 💼 [LinkedIn](https://www.linkedin.com/in/asser-mohammed-795769322/)
 - 📧 [Email](mailto:mohammedasser070@gmail.com)
 - 🏆 [Codeforces Profile](https://codeforces.com/profile/Zeke.5)
-- 📄 [Resume PDF](https://drive.google.com/file/d/1JRGgpD4tmjY4iPD4Q6Iu1sSiJKSnN4Nk/view?usp=drive_link)
+- 📄 [Resume PDF](https://drive.google.com/file/d/1yjAwW1bbsou9viXDjehkPOxOA_GHkIe0/view?usp=drive_link)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asaerxd6767&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
